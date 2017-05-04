@@ -1,0 +1,48 @@
+{
+  "name": "angular-component",
+  "version": "1.0.0",
+  "description": "angular component examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HubMahesh/angular-component.git"
+  },
+  "keywords": [
+    "angular",
+    "components",
+    "angular",
+    "1.5",
+    "component",
+    "examples",
+    "angular",
+    "component",
+    "base",
+    "application",
+    "angular",
+    "new",
+    "features",
+    "angular",
+    "guide",
+    "for",
+    "angular",
+    "2",
+    "angular2",
+    "component",
+    "example",
+    "in",
+    "angular",
+    "1.5"
+  ],
+  "author": "Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HubMahesh/angular-component/issues"
+  },
+  "homepage": "https://github.com/HubMahesh/angular-component#readme",
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
+}
