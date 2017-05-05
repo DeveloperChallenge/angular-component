@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to right, rgb(222, 98, 98), rgb(255, 184, 140));
+}
+
+h1,h2,h3,h4,p{
+    color: #fff;
+}
+
+@media (max-width: 768px){
+    h1{
+        font-size: 25px;
+    }
+}
